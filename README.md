@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arittro Sarkar (Devil@32)</h1>
+<h1 align="center">Hi 👋, I'm Arittro Sarkar (Devil@32).</h1>
 <h3 align="center">A Cybersecurity Enthusiast | Bug Bounty Hunter | CTF Player | Web Developer</h3>
 
 - 🔭 I’m currently working on [Bug Bounty Hunting & Security Research](https://github.com/Arittroskr32)
