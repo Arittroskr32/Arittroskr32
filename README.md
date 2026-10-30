@@ -48,3 +48,24 @@
 <p align="left">
 	<a href="https://arittro-sarkar.me/certificate">check my other certificate -></a>
 </p>
+
+<h3 align="left">CVEs:</h3>
+<table>
+	<tr>
+		<td align="center" width="300">
+			<a href="https://www.cve.org/CVERecord?id=CVE-2026-112839" target="_blank">
+				<img src="CVE-2026-112839.png" alt="CVE-2026-112839" width="280" />
+			</a>
+		</td>
+		<td>
+			<a href="https://www.cve.org/CVERecord?id=CVE-2026-112839" target="_blank"><b>CVE-2026-112839</b></a><br />
+			<b>WordPress Customer Coupons for WooCommerce plugin &lt;= 1.3.14 – Broken Access Control</b><br /><br />
+			<img src="https://img.shields.io/badge/CVSS%203.1-4.3%20MEDIUM-orange" alt="CVSS 4.3 Medium" />
+			<img src="https://img.shields.io/badge/CWE-862%20Missing%20Authorization-blue" alt="CWE-862" />
+			<img src="https://img.shields.io/badge/CNA-Patchstack-purple" alt="CNA Patchstack" /><br /><br />
+			Missing authorization in VillaTheme's <i>Customer Coupons for WooCommerce</i> plugin allowed a low-privileged authenticated user to perform actions they shouldn't have access to. Affects versions up to 1.3.14; fixed in 1.3.15.<br /><br />
+			📅 Published: 2026-10-26 &nbsp;|&nbsp;
+			<a href="https://patchstack.com/database/wordpress/plugin/woo-customer-coupons/vulnerability/wordpress-customer-coupons-for-woocommerce-plugin-1-3-14-broken-access-control-vulnerability?_s_id=cve" target="_blank">Patchstack Advisory</a>
+		</td>
+	</tr>
+</table>
