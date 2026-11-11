@@ -55,6 +55,22 @@
 <table>
 	<tr>
 		<td align="center" width="220">
+			<a href="https://www.cve.org/CVERecord?id=CVE-2026-122043" target="_blank">
+				<img src="CVE-2026-122043.png" alt="CVE-2026-122043" width="200" />
+			</a>
+		</td>
+		<td>
+			<a href="https://www.cve.org/CVERecord?id=CVE-2026-122043" target="_blank"><b>CVE-2026-122043</b></a><br />
+			<b>repmgr 4.0.0 – 5.5.0 – OS Command Injection (Event Notifications)</b><br /><br />
+			<img src="https://img.shields.io/badge/CVSS%204.0-6.0%20MEDIUM-orange" alt="CVSS 6.0 Medium" />
+			<img src="https://img.shields.io/badge/CWE-78%20OS%20Command%20Injection-blue" alt="CWE-78" />
+			<img src="https://img.shields.io/badge/CNA-EnterpriseDB-purple" alt="CNA EnterpriseDB" /><br /><br />
+			📅 Published: 2026-11-11 &nbsp;|&nbsp;
+			<a href="https://www.enterprisedb.com/docs/security/advisories/cve2026122043/" target="_blank">Advisory</a>
+		</td>
+	</tr>
+	<tr>
+		<td align="center" width="220">
 			<a href="https://www.cve.org/CVERecord?id=CVE-2026-121825" target="_blank">
 				<img src="CVE-2026-121825.png" alt="CVE-2026-121825" width="200" />
 			</a>
